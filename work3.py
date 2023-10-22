@@ -1,1 +1,1 @@
-from turtleimport
+from turtle import*
